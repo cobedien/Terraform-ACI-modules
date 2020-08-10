@@ -4,5 +4,5 @@ resource "aci_vrf" "vrf" {
     }
 
 output "vrf_id" {
-    value = "\${aci_vrf.vrf.id}"
+    value = "${aci_vrf.vrf.id}"
     }
