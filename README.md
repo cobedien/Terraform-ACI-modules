@@ -7,8 +7,8 @@ From the Terraform documentation, A module is a container for multiple resources
 
 In order to showcase the power of modules, we will be creating and deploying the following new objects:
 
-Tenant
-VRF
-Bridge Domains
+* Tenant
+* VRF
+* Bridge Domains
 
 Feel free to contact me if you have any questions cobedien@cisco.com
